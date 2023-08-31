@@ -1,2 +1,0 @@
-# MediCare
-Ambulance Services
